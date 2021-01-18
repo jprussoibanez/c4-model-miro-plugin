@@ -57,7 +57,7 @@
     Object.defineProperty(t, "__esModule", { value: !0 }),
       (t.config = {
         appId: "3074457353417636788",
-        baseUrl: "https://jprussoibanez.github.io/",
+        baseUrl: "https://jprussoibanez.github.io/c4-model-miro-plugin/",
       });
   },
   43: function (e, t, r) {
