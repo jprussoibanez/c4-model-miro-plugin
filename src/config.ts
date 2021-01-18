@@ -1,4 +1,4 @@
 export const config = {
-    appId: '3074457347038527861',
-    baseUrl: 'https://kyd01.github.io/'
+    appId: '3074457353417636788',
+    baseUrl: 'https://jprussoibanez.github.io/'
 };
